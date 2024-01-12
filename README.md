@@ -1,4 +1,5 @@
-Hello👋🏽 I'm a student learning how to develop games. I don't have any experience with GitHub, so I still learning how to use it.
+#Hello👋🏽 I'm Tysun
+And I'm a student learning how to develop games. I don't have any experience with GitHub, so I still learning how to use it.
 
 My favorite hobbies are to play videogames🎮, sleep😴, spend time with my family👨‍👨‍👧‍👦, and listen to music👂.
 
